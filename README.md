@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>HTML and JavaScript Working Calculator </b>
-  - [HTML and JavaScript Working Calculator](https://github.com/jonathanstump/Portfolio/Calculator)
+  - [HTML/JavaScript Calculator Interface](https://github.com/jonathanstump/Portfolio/tree/main/Calculator)
 
 <h2> 🤳 Connect with me:</h2>
 
