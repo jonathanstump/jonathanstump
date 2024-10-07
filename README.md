@@ -4,6 +4,8 @@
 
 - <b>HTML and JavaScript Working Calculator </b>
   - [HTML/JavaScript Calculator Interface](https://github.com/jonathanstump/Portfolio/tree/main/Calculator)
+- <b>To-Do List Application (HTML/CSS/JS) </b>
+  - [To-Do List Interface](https://github.com/jonathanstump/Portfolio/tree/main/To-Do%20List)
 
 <h2> 🤳 Connect with me:</h2>
 
