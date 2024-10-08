@@ -3,9 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>HTML and JavaScript Working Calculator </b>
-  - [HTML/JavaScript Calculator Interface](https://github.com/jonathanstump/Portfolio/tree/main/Calculator)
+  - [Calculator Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/Calculator)
 - <b>To-Do List Application (HTML/CSS/JS) </b>
-  - [To-Do List Interface](https://github.com/jonathanstump/Portfolio/tree/main/To-Do%20List)
+  - [To-Do List Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/To-Do%20List)
+- <b>Shell Terminal in C </b>
+  - [Shell Terminal Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/Shell%20Implementation)
 
 <h2> 🤳 Connect with me:</h2>
 
