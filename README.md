@@ -8,6 +8,8 @@
   - [To-Do List Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/To-Do%20List)
 - <b>Shell Terminal in C </b>
   - [Shell Terminal Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/Shell%20Implementation)
+- <b>Chess from Scratch -- Java </b>
+  - [Hackathon 2022 (Chess) Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/Chess)
 
 <h2> 🤳 Connect with me:</h2>
 
