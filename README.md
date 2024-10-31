@@ -2,14 +2,16 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>HTML and JavaScript Working Calculator </b>
-  - [Calculator Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/Calculator)
-- <b>To-Do List Application (HTML/CSS/JS) </b>
-  - [To-Do List Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/To-Do%20List)
 - <b>Shell Terminal in C </b>
   - [Shell Terminal Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/Shell%20Implementation)
 - <b>Chess from Scratch -- Java </b>
   - [Hackathon 2022 (Chess) Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/Chess)
+- <b>Atari Basketball Remake in TIC-80 (Lua)
+  - [Remake Analysis and Demonstration](https://github.com/jonathanstump/Portfolio/tree/main/Basketball)
+- <b>HTML and JavaScript Working Calculator </b>
+  - [Calculator Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/Calculator)
+- <b>To-Do List Application (HTML/CSS/JS) </b>
+  - [To-Do List Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/To-Do%20List)
 
 <h2> 🤳 Connect with me:</h2>
 
