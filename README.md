@@ -6,6 +6,8 @@
   - [Shell Terminal Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/Shell%20Implementation)
 - <b>Chess from Scratch -- Java </b>
   - [Hackathon 2022 (Chess) Repository and Walkthrough](https://github.com/jonathanstump/Portfolio/tree/main/Chess)
+- <b>Call of Duty Zombies NES Demake in C </b>
+  - [Demake Retrospective and Playable Game](https://github.com/jonathanstump/Portfolio/tree/main/Zombies)
 - <b>Atari Basketball Remake in TIC-80 (Lua)
   - [Remake Analysis and Demonstration](https://github.com/jonathanstump/Portfolio/tree/main/Basketball)
 - <b>HTML and JavaScript Working Calculator </b>
