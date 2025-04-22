@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>SilverScreen Web Application </b>
+  - [HTML/CSS/JavScript/Python(Flask) Web App with OMDb RESTful API](https://github.com/jonathanstump/Portfolio/tree/main/SilverScreen%20Web%20App)
 - <b>Inspired Original Game Creation -- Lua </b>
   - [NidFrogg TIC-80 Creation Project with Design Patterns](https://github.com/jonathanstump/Portfolio/tree/main/NidFrogg)
 - <b>Shell Terminal in C </b>
