@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Python (OpenCV) Image Processing in Surgical Analysis </b>
+  - [Read the scientific report detailing methodology, results, and conclusion](https://github.com/jonathanstump/Portfolio/tree/main/Image%20Processing%20in%20Surgical%20Analysis)
 - <b>SilverScreen Web Application </b>
   - [HTML/CSS/JavScript/Python(Flask) Web App with OMDb RESTful API](https://github.com/jonathanstump/Portfolio/tree/main/SilverScreen%20Web%20App)
 - <b>Inspired Original Game Creation -- Lua </b>
