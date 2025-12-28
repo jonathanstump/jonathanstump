@@ -12,6 +12,9 @@
 ---
 
 ### 🎨 Personal Projects  
+- **Predicting NBA Lineup Efficiencies Using ML**  
+  🏀 [Code (PCA, KMeans++, RF) + Scientific Report](https://github.com/jonathanstump/Portfolio/tree/main/Predicting%20NBA%20Lineup%20Efficiencies%20Using%20ML)
+  
 - **SilverScreen Web Application**  
   🎬 [HTML/CSS/JavaScript + Flask app using OMDb RESTful API](https://github.com/jonathanstump/Portfolio/tree/main/SilverScreen%20Web%20App)  
 
@@ -28,7 +31,7 @@
   🕹️ [Demake retrospective + playable game](https://github.com/jonathanstump/Portfolio/tree/main/Zombies)  
 
 - **Atari Basketball Remake (Lua, TIC-80)**  
-  🏀 [Remake analysis and demonstration](https://github.com/jonathanstump/Portfolio/tree/main/Basketball)  
+  🏀 [Remake analysis and demonstration](https://github.com/jonathanstump/Portfolio/tree/main/Basketball)
 
 ---
 
