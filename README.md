@@ -15,7 +15,7 @@
 - **Predicting NBA Lineup Efficiencies Using ML**  
   🏀 [Code (PCA, KMeans++, RF) + Scientific Report](https://github.com/jonathanstump/Portfolio/tree/main/Predicting%20NBA%20Lineup%20Efficiencies%20Using%20ML)
 
-- **Modeling Weight Lifting Gains with Differential Equations**
+- **Modeling Weight Lifting Gains with Differential Equations**<br>
   ⚖️ [PDF Official Written Report](https://github.com/jonathanstump/Portfolio/blob/main/Weight%20Training%20Model/WeightLiftingModel.pdf)
   
 - **SilverScreen Web Application**  
